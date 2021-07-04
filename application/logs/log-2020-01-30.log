@@ -1,0 +1,5 @@
+ERROR - 2020-01-30 09:03:29 --> Severity: Error --> Class 'Client' not found /Library/WebServer/Documents/miracle/ci_kios/application/modules/Queuekios/controllers/Queuekios.php 31
+ERROR - 2020-01-30 09:39:02 --> Severity: Error --> Class 'Client' not found /Library/WebServer/Documents/miracle/ci_kios/application/modules/Queuekios/controllers/Queuekios.php 31
+ERROR - 2020-01-30 10:02:40 --> Severity: Error --> Class 'Client' not found /Library/WebServer/Documents/miracle/ci_kios/application/modules/Queuekios/controllers/Queuekios.php 31
+ERROR - 2020-01-30 14:18:20 --> Severity: Error --> Class 'Client' not found /Library/WebServer/Documents/miracle/ci_kios/application/modules/Queuekios/controllers/Queuekios.php 31
+ERROR - 2020-01-30 14:19:57 --> Severity: Error --> Class 'Client' not found /Library/WebServer/Documents/miracle/ci_kios/application/modules/Queuekios/controllers/Queuekios.php 31

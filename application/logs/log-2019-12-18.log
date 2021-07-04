@@ -1,0 +1,34 @@
+ERROR - 2019-12-18 11:06:23 --> Could not find the language line "core error session_language"
+ERROR - 2019-12-18 11:06:24 --> Could not find the language line "admin dashboard jsi18n-sample"
+ERROR - 2019-12-18 11:08:25 --> Severity: Warning --> pg_query(): Query failed: ERROR:  column &quot;queue_number&quot; of relation &quot;kios_queue&quot; does not exist
+LINE 1: INSERT INTO &quot;medrec&quot;.&quot;kios_queue&quot; (&quot;hn&quot;, &quot;cid&quot;, &quot;queue_numbe...
+                                                        ^ /Library/WebServer/Documents/miracle/ci3_cgi/system/database/drivers/postgre/postgre_driver.php 242
+ERROR - 2019-12-18 11:08:25 --> Query error: ERROR:  column "queue_number" of relation "kios_queue" does not exist
+LINE 1: INSERT INTO "medrec"."kios_queue" ("hn", "cid", "queue_numbe...
+                                                        ^ - Invalid query: INSERT INTO "medrec"."kios_queue" ("hn", "cid", "queue_number", "created_date") VALUES ('125025', '3420100118195', NULL, '2019-12-18 11:08:25')
+ERROR - 2019-12-18 11:10:09 --> Severity: error --> Exception: An error occurred while trying to establish a connection to the server /Library/WebServer/Documents/miracle/ci3_cgi/vendor/wisembly/elephant.io/src/Engine/SocketIO/Version1X.php 187
+ERROR - 2019-12-18 11:16:22 --> Severity: Warning --> pg_query(): Query failed: ERROR:  column kios_queue.queue_number does not exist
+LINE 1: ...&quot;kios_id&quot;, &quot;kios_queue&quot;.&quot;hn&quot;, &quot;kios_queue&quot;.&quot;cid&quot;, &quot;kios_queu...
+                                                             ^
+HINT:  Perhaps you meant to reference the column &quot;kios_queue.queueNumber&quot;. /Library/WebServer/Documents/miracle/ci3_cgi/system/database/drivers/postgre/postgre_driver.php 242
+ERROR - 2019-12-18 11:16:22 --> Query error: ERROR:  column kios_queue.queue_number does not exist
+LINE 1: ..."kios_id", "kios_queue"."hn", "kios_queue"."cid", "kios_queu...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "kios_queue.queueNumber". - Invalid query: SELECT "kios_queue"."id" AS "kios_id", "kios_queue"."hn", "kios_queue"."cid", "kios_queue"."queue_number", "patient"."pa_pre_name", "patient"."pa_name", "patient"."pa_lastname"
+FROM "medrec"."kios_queue"
+JOIN "medrec"."nano_patient" AS "patient" ON "patient"."hn" = "kios_queue"."hn"
+WHERE "kios_queue"."created_date" BETWEEN '2019-12-18 00:00:00' AND '2019-12-18 23:59:59'
+AND "kios_queue"."is_visit" = 'f'
+AND "kios_queue"."deleted" = 'f'
+GROUP BY "kios_queue"."id", "kios_queue"."queue_number", "kios_queue"."created_date", "patient"."hn", "patient"."pa_pre_name", "patient"."pa_name", "patient"."pa_lastname"
+ORDER BY "kios_queue"."id", "kios_queue"."created_date" ASC
+ERROR - 2019-12-18 11:30:20 --> Severity: Core Warning --> Module 'zip' already loaded Unknown 0
+ERROR - 2019-12-18 11:37:40 --> Severity: Core Warning --> Module 'zip' already loaded Unknown 0
+ERROR - 2019-12-18 12:03:17 --> 404 Page Not Found: /index
+ERROR - 2019-12-18 12:03:25 --> 404 Page Not Found: /index
+ERROR - 2019-12-18 12:05:42 --> 404 Page Not Found: /index
+ERROR - 2019-12-18 12:06:07 --> 404 Page Not Found: /index
+ERROR - 2019-12-18 12:06:14 --> 404 Page Not Found: /index
+ERROR - 2019-12-18 12:07:37 --> 404 Page Not Found: /index
+ERROR - 2019-12-18 12:07:52 --> 404 Page Not Found: /index
+ERROR - 2019-12-18 12:07:56 --> 404 Page Not Found: /index

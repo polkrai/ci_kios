@@ -1,0 +1,16 @@
+{
+    "name": "NodeKios",
+    "version": "3.0.0",
+    "main": "kios_queue_server.js",
+    "scripts": {
+        "start": "supervisor --debug kios_queue_server.js"
+    },
+    "dependencies": {
+        "optimist": "~0.6.1",
+		"mu2": "~0.5.20",
+        "node-linux": "^0.1.8",
+        "socket.io": "~1",
+        "winston": "*"
+    }
+}
+

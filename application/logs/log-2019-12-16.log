@@ -1,0 +1,8 @@
+ERROR - 2019-12-16 16:02:08 --> 404 Page Not Found: /index
+ERROR - 2019-12-16 16:02:08 --> 404 Page Not Found: /index
+ERROR - 2019-12-16 16:02:08 --> 404 Page Not Found: /index
+ERROR - 2019-12-16 16:03:26 --> 404 Page Not Found: /index
+ERROR - 2019-12-16 16:03:26 --> 404 Page Not Found: /index
+ERROR - 2019-12-16 16:03:26 --> 404 Page Not Found: /index
+ERROR - 2019-12-16 16:03:35 --> 404 Page Not Found: /index
+ERROR - 2019-12-16 16:14:32 --> Severity: Error --> Call to a member function result_array() on array /Library/WebServer/Documents/miracle/ci3_cgi/application/modules/Queuekios/controllers/Queuekios.php 71

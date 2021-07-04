@@ -1,0 +1,2 @@
+ERROR - 2020-01-13 17:48:04 --> Severity: error --> Exception: An error occurred while trying to establish a connection to the server /Library/WebServer/Documents/miracle/ci_kios/vendor/wisembly/elephant.io/src/Engine/SocketIO/Version1X.php 187
+ERROR - 2020-01-13 17:48:25 --> Severity: error --> Exception: An error occurred while trying to establish a connection to the server /Library/WebServer/Documents/miracle/ci_kios/vendor/wisembly/elephant.io/src/Engine/SocketIO/Version1X.php 187
