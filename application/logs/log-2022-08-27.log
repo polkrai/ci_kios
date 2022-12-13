@@ -1,0 +1,7 @@
+DEBUG - 2022-08-27 00:57:28 --> UTF-8 Support Enabled
+DEBUG - 2022-08-27 00:57:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-08-27 00:57:29 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-08-27 00:57:29 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-08-27 00:57:29 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-08-27 00:57:29 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-08-27 00:57:29 --> Total execution time: 0.3814

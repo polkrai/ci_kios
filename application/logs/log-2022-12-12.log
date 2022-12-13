@@ -1,0 +1,248 @@
+DEBUG - 2022-12-12 10:32:21 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 10:32:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 10:32:21 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 10:32:21 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 10:32:21 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 10:32:21 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 10:32:21 --> Total execution time: 0.3554
+DEBUG - 2022-12-12 10:32:28 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 10:32:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 10:32:28 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 10:32:28 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 10:32:28 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 10:32:28 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 10:32:28 --> Total execution time: 0.0431
+DEBUG - 2022-12-12 17:39:53 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 17:39:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 17:39:53 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 17:39:53 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 17:39:53 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 17:39:53 --> cURL Class Initialized
+DEBUG - 2022-12-12 17:40:06 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 17:40:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 17:40:06 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 17:40:06 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 17:40:06 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 17:40:06 --> cURL Class Initialized
+DEBUG - 2022-12-12 17:40:45 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 17:40:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 17:40:45 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 17:40:45 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 17:40:45 --> Total execution time: 0.1860
+DEBUG - 2022-12-12 17:40:45 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 17:40:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 17:40:45 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 17:40:45 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 17:40:45 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 17:40:45 --> cURL Class Initialized
+DEBUG - 2022-12-12 17:41:18 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 17:41:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 17:41:18 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 17:41:18 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 17:41:18 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 17:41:18 --> cURL Class Initialized
+DEBUG - 2022-12-12 17:41:45 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 17:41:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 17:41:45 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 17:41:45 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 17:41:45 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 17:41:45 --> cURL Class Initialized
+DEBUG - 2022-12-12 22:42:58 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 22:42:58 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 22:42:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 22:42:58 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 22:42:58 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 22:42:58 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 22:42:58 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 22:42:58 --> Total execution time: 0.0673
+DEBUG - 2022-12-12 23:29:59 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:29:59 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:29:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:29:59 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:29:59 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:29:59 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:29:59 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:29:59 --> Total execution time: 0.0620
+DEBUG - 2022-12-12 23:46:35 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:46:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:46:35 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:46:35 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:46:35 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:46:35 --> Total execution time: 0.3318
+DEBUG - 2022-12-12 23:47:44 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:47:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:47:44 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:47:44 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:47:44 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:47:56 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:47:56 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:47:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:47:56 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:47:56 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:47:56 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:47:56 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:47:56 --> Total execution time: 0.0695
+DEBUG - 2022-12-12 23:48:06 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:48:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:48:06 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:48:06 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:48:06 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:48:31 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:48:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:48:31 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:48:31 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:48:31 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:50:48 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:50:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:50:48 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:50:48 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:50:48 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+ERROR - 2022-12-12 23:50:48 --> Severity: Warning --> pg_query(): Query failed: ERROR:  column kios_queue.idx does not exist
+LINE 13: ORDER BY &quot;kios_queue&quot;.&quot;idx&quot; DESC, &quot;kios_queue&quot;.&quot;id&quot;, &quot;kios_q...
+                  ^
+HINT:  Perhaps you meant to reference the column &quot;kios_queue.id&quot;. /var/www/html/ci_kios/system/database/drivers/postgre/postgre_driver.php 239
+ERROR - 2022-12-12 23:50:48 --> Query error: ERROR:  column kios_queue.idx does not exist
+LINE 13: ORDER BY "kios_queue"."idx" DESC, "kios_queue"."id", "kios_q...
+                  ^
+HINT:  Perhaps you meant to reference the column "kios_queue.id". - Invalid query: SELECT "kios_queue"."id" AS "kios_id", "kios_queue"."hn", "kios_queue"."cid", "kios_queue"."queueNumber", "patient"."pa_pre_name", "patient"."pa_name", "patient"."pa_lastname"
+FROM "medrec"."kios_queue"
+JOIN "medrec"."nano_patient" AS "patient" ON "patient"."hn" = "kios_queue"."hn"
+JOIN (SELECT MAX(id), hn FROM medrec.kios_queue GROUP BY hn) AS kios_queue_max_id ON "kios_queue_max_id"."max" = "kios_queue"."id"
+LEFT JOIN (SELECT MAX(id) AS visit_id, hn FROM medrec.nano_visit WHERE time_add BETWEEN '2022-12-12 00:00:00' AND '2022-12-12 23:59:59' GROUP BY hn) AS visit ON "visit"."hn" = "kios_queue"."hn"
+WHERE "kios_queue"."created_date" BETWEEN '2022-12-12 00:00:00' AND '2022-12-12 23:59:59'
+AND "visit"."visit_id" IS NULL
+AND "kios_queue"."is_visit" = 'f'
+AND "kios_queue"."deleted" = 'f'
+AND "kios_queue"."is_visit" = 'f'
+AND "kios_queue"."deleted" = 'f'
+GROUP BY "kios_queue"."id", "kios_queue"."queueNumber", "kios_queue"."created_date", "patient"."hn", "patient"."pa_pre_name", "patient"."pa_name", "patient"."pa_lastname"
+ORDER BY "kios_queue"."idx" DESC, "kios_queue"."id", "kios_queue"."created_date" ASC
+ LIMIT 1
+ERROR - 2022-12-12 23:50:48 --> Severity: Error --> Call to a member function result_array() on boolean /var/www/html/ci_kios/application/core/MY_Model.php 350
+DEBUG - 2022-12-12 23:51:53 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:51:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:51:53 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:51:53 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:51:53 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+ERROR - 2022-12-12 23:51:53 --> Severity: Warning --> pg_query(): Query failed: ERROR:  column kios_queue.idx does not exist
+LINE 13: ORDER BY &quot;kios_queue&quot;.&quot;idx&quot; DESC, &quot;kios_queue&quot;.&quot;id&quot;, &quot;kios_q...
+                  ^
+HINT:  Perhaps you meant to reference the column &quot;kios_queue.id&quot;. /var/www/html/ci_kios/system/database/drivers/postgre/postgre_driver.php 239
+ERROR - 2022-12-12 23:51:53 --> Query error: ERROR:  column kios_queue.idx does not exist
+LINE 13: ORDER BY "kios_queue"."idx" DESC, "kios_queue"."id", "kios_q...
+                  ^
+HINT:  Perhaps you meant to reference the column "kios_queue.id". - Invalid query: SELECT "kios_queue"."id" AS "kios_id", "kios_queue"."hn", "kios_queue"."cid", "kios_queue"."queueNumber", "patient"."pa_pre_name", "patient"."pa_name", "patient"."pa_lastname"
+FROM "medrec"."kios_queue"
+JOIN "medrec"."nano_patient" AS "patient" ON "patient"."hn" = "kios_queue"."hn"
+JOIN (SELECT MAX(id), hn FROM medrec.kios_queue GROUP BY hn) AS kios_queue_max_id ON "kios_queue_max_id"."max" = "kios_queue"."id"
+LEFT JOIN (SELECT MAX(id) AS visit_id, hn FROM medrec.nano_visit WHERE time_add BETWEEN '2022-12-12 00:00:00' AND '2022-12-12 23:59:59' GROUP BY hn) AS visit ON "visit"."hn" = "kios_queue"."hn"
+WHERE "kios_queue"."created_date" BETWEEN '2022-12-12 00:00:00' AND '2022-12-12 23:59:59'
+AND "visit"."visit_id" IS NULL
+AND "kios_queue"."is_visit" = 'f'
+AND "kios_queue"."deleted" = 'f'
+AND "kios_queue"."is_visit" = 'f'
+AND "kios_queue"."deleted" = 'f'
+GROUP BY "kios_queue"."id", "kios_queue"."queueNumber", "kios_queue"."created_date", "patient"."hn", "patient"."pa_pre_name", "patient"."pa_name", "patient"."pa_lastname"
+ORDER BY "kios_queue"."idx" DESC, "kios_queue"."id", "kios_queue"."created_date" ASC
+ LIMIT 1
+DEBUG - 2022-12-12 23:53:45 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:53:45 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:53:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:53:45 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:53:45 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:53:45 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:53:46 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:53:46 --> Total execution time: 0.0680
+DEBUG - 2022-12-12 23:53:53 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:53:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:53:53 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:53:53 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:53:53 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:55:08 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:55:08 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:55:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:55:08 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:55:08 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:55:08 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:55:08 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:55:08 --> Total execution time: 0.0699
+DEBUG - 2022-12-12 23:55:14 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:55:14 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:55:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:55:14 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:55:14 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:55:14 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:55:14 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:55:14 --> Total execution time: 0.0673
+DEBUG - 2022-12-12 23:55:19 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:55:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:55:19 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:55:19 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:55:19 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:55:53 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:55:53 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:55:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:55:53 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:55:53 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:55:54 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:55:54 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:55:54 --> Total execution time: 0.0702
+DEBUG - 2022-12-12 23:56:04 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:56:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:56:04 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:56:04 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:56:04 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:56:30 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:56:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:56:30 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:56:30 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:56:30 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:56:31 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:56:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:56:31 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:56:31 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:56:31 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:56:31 --> Total execution time: 0.0608
+DEBUG - 2022-12-12 23:57:00 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:57:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:57:00 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:57:00 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:57:00 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:57:01 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:57:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:57:01 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:57:01 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:57:01 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:57:01 --> Total execution time: 0.0753
+DEBUG - 2022-12-12 23:58:40 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:58:40 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:58:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:58:40 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:58:40 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:58:40 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:58:40 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:58:40 --> Total execution time: 0.0687
+DEBUG - 2022-12-12 23:58:46 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:58:46 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:58:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:58:46 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:58:46 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:58:46 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:58:46 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:58:46 --> Total execution time: 0.0674
+DEBUG - 2022-12-12 23:58:49 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:58:49 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:58:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:58:49 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:58:49 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:58:49 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:58:49 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:58:49 --> Total execution time: 0.0767
+DEBUG - 2022-12-12 23:59:15 --> UTF-8 Support Enabled
+DEBUG - 2022-12-12 23:59:15 --> No URI present. Default controller set.
+DEBUG - 2022-12-12 23:59:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2022-12-12 23:59:15 --> Config file loaded: /var/www/html/ci_kios/application/config/core.php
+DEBUG - 2022-12-12 23:59:15 --> Config file loaded: /var/www/html/ci_kios/application/config/timezones.php
+DEBUG - 2022-12-12 23:59:15 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/models/Mdl_queuekios.php
+DEBUG - 2022-12-12 23:59:15 --> File loaded: /var/www/html/ci_kios/application/modules/Queuekios/views/view_kios.php
+DEBUG - 2022-12-12 23:59:15 --> Total execution time: 0.0751

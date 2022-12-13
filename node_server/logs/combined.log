@@ -1,0 +1,716 @@
+{"message":"SocketIO > Connected socket T5Udyy6g4XuqYFcwAAAA","level":"info"}
+{"message":"SocketIO > Connected socket wVT88ZTSM4eZyyoGAAAB","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket wVT88ZTSM4eZyyoGAAAB","level":"info"}
+{"message":"SocketIO > Connected socket 1kUjwRuMRUdtzhJjAAAC","level":"info"}
+{"message":"SocketIO > Connected socket -O69BVC49wKRx9m4AAAD","level":"info"}
+{"message":"ElephantIO broadcast > {\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket -O69BVC49wKRx9m4AAAD","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket T5Udyy6g4XuqYFcwAAAA","level":"info"}
+{"message":"SocketIO > Connected socket MgRzm7stNDeN0DF4AAAE","level":"info"}
+{"message":"ElephantIO broadcast > {\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket MgRzm7stNDeN0DF4AAAE","level":"info"}
+{"message":"SocketIO > Connected socket js5srTbjfI4e5hMbAAAF","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket js5srTbjfI4e5hMbAAAF","level":"info"}
+{"message":"SocketIO > Connected socket 5ZJfyrRg_zhZ6xUjAAAG","level":"info"}
+{"message":"SocketIO > Connected socket eKPpxCCyal7dc6_7AAAH","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket eKPpxCCyal7dc6_7AAAH","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket 1kUjwRuMRUdtzhJjAAAC","level":"info"}
+{"message":"SocketIO > Connected socket Nb0Z8htydfn6qiNSAAAI","level":"info"}
+{"message":"SocketIO > Connected socket IoXZ7zJz79Q1wNq-AAAJ","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket IoXZ7zJz79Q1wNq-AAAJ","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket 5ZJfyrRg_zhZ6xUjAAAG","level":"info"}
+{"message":"SocketIO > Connected socket N9NKvCJaA0hiIFlRAAAK","level":"info"}
+{"message":"SocketIO > Connected socket hP8A21YDviPXA3rVAAAL","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket hP8A21YDviPXA3rVAAAL","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket Nb0Z8htydfn6qiNSAAAI","level":"info"}
+{"message":"SocketIO > Connected socket IpI6RVSK8DN3_rFUAAAM","level":"info"}
+{"message":"SocketIO > Connected socket WGjsg_jrg3bo7A-JAAAN","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket WGjsg_jrg3bo7A-JAAAN","level":"info"}
+{"message":"SocketIO > Connected socket 0tyVqp39L3cSCMwsAAAO","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket 0tyVqp39L3cSCMwsAAAO","level":"info"}
+{"message":"SocketIO > Connected socket 8OElnAT_32NZvI3MAAAP","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket 8OElnAT_32NZvI3MAAAP","level":"info"}
+{"message":"SocketIO > Connected socket Zmkn7DJXA-057j7bAAAQ","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket Zmkn7DJXA-057j7bAAAQ","level":"info"}
+{"message":"SocketIO > Connected socket tMgwrX1Mw2Xr4nWqAAAR","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket tMgwrX1Mw2Xr4nWqAAAR","level":"info"}
+{"message":"SocketIO > Connected socket YqRIzZBfTbrZiumKAAAS","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket YqRIzZBfTbrZiumKAAAS","level":"info"}
+{"message":"SocketIO > Connected socket -F5evFF7r9TEfWuVAAAT","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket -F5evFF7r9TEfWuVAAAT","level":"info"}
+{"message":"SocketIO > Connected socket FD-tlqTZxsknp2vpAAAU","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket FD-tlqTZxsknp2vpAAAU","level":"info"}
+{"message":"SocketIO > Connected socket INH8qsW8FH7sEwIXAAAV","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket INH8qsW8FH7sEwIXAAAV","level":"info"}
+{"message":"SocketIO > Connected socket Z0C80gHbclcllulXAAAW","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket Z0C80gHbclcllulXAAAW","level":"info"}
+{"message":"SocketIO > Connected socket lpNf6AuJ-4_wurihAAAX","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket lpNf6AuJ-4_wurihAAAX","level":"info"}
+{"message":"SocketIO > Connected socket 1p9-iXgsxcDH5rKXAAAY","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket IpI6RVSK8DN3_rFUAAAM","level":"info"}
+{"message":"SocketIO > Connected socket BHNQuI3BBvsHb-cyAAAZ","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket BHNQuI3BBvsHb-cyAAAZ","level":"info"}
+{"message":"SocketIO > Connected socket _vbBP8FAQTNg0YUyAAAa","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket _vbBP8FAQTNg0YUyAAAa","level":"info"}
+{"message":"SocketIO > Connected socket YIhsn753bWzW6ZQHAAAb","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket YIhsn753bWzW6ZQHAAAb","level":"info"}
+{"message":"SocketIO > Connected socket K0pE6YcS4yFCTjRJAAAc","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket K0pE6YcS4yFCTjRJAAAc","level":"info"}
+{"message":"SocketIO > Connected socket yA1ugwt8spyIy5nNAAAA","level":"info"}
+{"message":"SocketIO > Connected socket 3JdthVrb_tnEJj6jAAAB","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket yA1ugwt8spyIy5nNAAAA","level":"info"}
+{"message":"SocketIO > Connected socket otdZlZdr0UZeSEVtAAAC","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket otdZlZdr0UZeSEVtAAAC","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket 3JdthVrb_tnEJj6jAAAB","level":"info"}
+{"message":"SocketIO > Connected socket tNrJnopKhWFDhSDuAAAD","level":"info"}
+{"message":"ElephantIO broadcast > {\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO > Connected socket MK_OsPSER9t7D8sKAAAE","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket MK_OsPSER9t7D8sKAAAE","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket tNrJnopKhWFDhSDuAAAD","level":"info"}
+{"message":"SocketIO > Connected socket JQDwuF3Xwr7VSybwAAAF","level":"info"}
+{"message":"ElephantIO broadcast > {\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO > Connected socket lgvNLR3-c3N2HgOcAAAG","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket lgvNLR3-c3N2HgOcAAAG","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket JQDwuF3Xwr7VSybwAAAF","level":"info"}
+{"message":"SocketIO > Connected socket 6SZ_qtlcbsCrEq0aAAAH","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO > Connected socket zNEsvq2FsZmvX8ioAAAI","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO > Connected socket d-pAAu0zZnTbKXYoAAAJ","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket d-pAAu0zZnTbKXYoAAAJ","level":"info"}
+{"message":"SocketIO > Connected socket EVjiI-LgXlWi_bBkAAAA","level":"info"}
+{"message":"SocketIO : Received 0 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket EVjiI-LgXlWi_bBkAAAA","level":"info"}
+{"message":"SocketIO > Connected socket uUrjrCDhVLUHyFGZAAAB","level":"info"}
+{"message":"ElephantIO broadcast > {\"type\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket uUrjrCDhVLUHyFGZAAAB","level":"info"}
+{"message":"SocketIO > Connected socket Es0SkQwph18ICi2CAAAC","level":"info"}
+{"message":"ElephantIO broadcast > {\"queuetype\":\"reuest\",\"point_id\":\"10\",\"queue_id\":\"24589\"}","level":"info"}
+{"message":"SocketIO > Connected socket l8usuj74IZY4l7o3AAAD","level":"info"}
+{"message":"ElephantIO broadcast > {\"queuetype\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket l8usuj74IZY4l7o3AAAD","level":"info"}
+{"message":"SocketIO > Connected socket ukYquirWiyjl2DypAAAE","level":"info"}
+{"message":"ElephantIO broadcast > {\"queuetype\":\"reuest\",\"point_id\":\"10\",\"queue_id\":\"24589\"}","level":"info"}
+{"message":"SocketIO > Connected socket hFZAVcM1bumO8mknAAAF","level":"info"}
+{"message":"ElephantIO broadcast > {\"queuetype\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO : Received 1 messages","level":"info"}
+{"message":"SocketIO > Disconnected socket hFZAVcM1bumO8mknAAAF","level":"info"}
+{"message":"SocketIO > Connected socket dFnptwumK_03PvdYAAAA","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":\"10\",\"queue_id\":\"24589\"}","level":"info"}
+{"message":"SocketIO > Connected socket 1hjO_IpVwqXM-ilWAAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket 1hjO_IpVwqXM-ilWAAAB","level":"info"}
+{"message":"SocketIO > Connected socket XioK1pGAXOwOmxqvAAAC","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":\"10\",\"queue_id\":\"24589\"}","level":"info"}
+{"message":"SocketIO > Connected socket sSSAhur62hXU3A1AAAAD","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO > Disconnected socket sSSAhur62hXU3A1AAAAD","level":"info"}
+{"message":"SocketIO > Connected socket Ha0rZXMACKjLupCEAAAA","level":"info"}
+{"message":"SocketIO > Connected socket tPPRxjjz4G-sQKYfAAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket Ha0rZXMACKjLupCEAAAA","level":"info"}
+{"message":"SocketIO > Disconnected socket tPPRxjjz4G-sQKYfAAAB","level":"info"}
+{"message":"SocketIO > Connected socket Gynvlec8j06RAhuOAAAC","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":\"10\",\"queue_id\":\"24589\"}","level":"info"}
+{"message":"SocketIO > Connected socket 92QPIo7BG5D8NXlgAAAD","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO > Disconnected socket 92QPIo7BG5D8NXlgAAAD","level":"info"}
+{"message":"SocketIO > Connected socket pw1pYoanNPKUfEGiAAAE","level":"info"}
+{"message":"SocketIO > Disconnected socket pw1pYoanNPKUfEGiAAAE","level":"info"}
+{"message":"SocketIO > Connected socket pHId3gKhjg8MjdHYAAAF","level":"info"}
+{"message":"SocketIO > Connected socket JncOtpiJTz-UwmqYAAAG","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":10}","level":"info"}
+{"message":"SocketIO > Disconnected socket JncOtpiJTz-UwmqYAAAG","level":"info"}
+{"message":"SocketIO > Disconnected socket pHId3gKhjg8MjdHYAAAF","level":"info"}
+{"message":"SocketIO > Connected socket 4GUT1BHMlgJtvJKSAAAH","level":"info"}
+{"message":"SocketIO > Connected socket 4tUgR76vhdO1PJ4qAAAI","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":10,\"queue_id\":456094785}","level":"info"}
+{"message":"SocketIO > Disconnected socket 4tUgR76vhdO1PJ4qAAAI","level":"info"}
+{"message":"SocketIO > Disconnected socket 4GUT1BHMlgJtvJKSAAAH","level":"info"}
+{"message":"SocketIO > Connected socket k6fF-oLJl4JEM3XzAAAJ","level":"info"}
+{"message":"SocketIO > Disconnected socket k6fF-oLJl4JEM3XzAAAJ","level":"info"}
+{"message":"SocketIO > Connected socket aRv37pIh3Rx5aeQMAAAK","level":"info"}
+{"message":"SocketIO > Connected socket fX_YJokZ2fuwsBTCAAAL","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":9,\"queue_id\":\"9770\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket fX_YJokZ2fuwsBTCAAAL","level":"info"}
+{"message":"SocketIO > Disconnected socket aRv37pIh3Rx5aeQMAAAK","level":"info"}
+{"message":"SocketIO > Connected socket Kkl8IBlnQBrRs6VpAAAM","level":"info"}
+{"message":"SocketIO > Connected socket 41MVhzdaJOJjgkQSAAAN","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":9,\"queue_id\":\"9770\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket 41MVhzdaJOJjgkQSAAAN","level":"info"}
+{"message":"SocketIO > Connected socket 2ZjT0uFWacljyGhiAAAO","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"send\",\"point_id\":9,\"queue_id\":\"9770\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket 2ZjT0uFWacljyGhiAAAO","level":"info"}
+{"message":"SocketIO > Disconnected socket Gynvlec8j06RAhuOAAAC","level":"info"}
+{"message":"SocketIO > Disconnected socket Kkl8IBlnQBrRs6VpAAAM","level":"info"}
+{"message":"SocketIO > Connected socket CXGbxlOgduOQvVXjAAAA","level":"info"}
+{"message":"SocketIO > Disconnected socket CXGbxlOgduOQvVXjAAAA","level":"info"}
+{"message":"SocketIO > Connected socket -PjUIXOG7yUQoudJAAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket -PjUIXOG7yUQoudJAAAB","level":"info"}
+{"message":"SocketIO > Connected socket PedFXU9WvcYeULy8AAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID :7t1MjgMJ_IKQv5bsAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tzgVaBgfZFib4uI7DAAAA","level":"info"}
+{"message":"SocketIO > Disconnected socket zgVaBgfZFib4uI7DAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tKY-IMBHuHdPEjHJIAAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket KY-IMBHuHdPEjHJIAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tlEy72KIQpHvwas0WAAAC","level":"info"}
+{"message":"SocketIO > Disconnected socket lEy72KIQpHvwas0WAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tAEzQv1U9V3EVsunAAAAD","level":"info"}
+{"message":"SocketIO > Disconnected socket AEzQv1U9V3EVsunAAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tUEfg4Vo0ipTWRA-mAAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tnGHnI_AVn5UUWVFsAAAF","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":9,\"queue_id\":\"9770\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket nGHnI_AVn5UUWVFsAAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tTMhmvcYA9T_psGLKAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tKcqtvjpb_-dWA6qOAAAH","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":9,\"queue_id\":\"9770\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket Kcqtvjpb_-dWA6qOAAAH","level":"info"}
+{"message":"SocketIO > Disconnected socket UEfg4Vo0ipTWRA-mAAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tayebMscFGWBt8qcFAAAI","level":"info"}
+{"message":"SocketIO > Disconnected socket ayebMscFGWBt8qcFAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t8t8hnKq7-oL7ywW0AAAJ","level":"info"}
+{"message":"SocketIO > Disconnected socket 8t8hnKq7-oL7ywW0AAAJ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tUJcnQ3DWZUdzclAGAAAK","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tWV3ceQjs1snvSNrpAAAL","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":9,\"queue_id\":\"9770\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket WV3ceQjs1snvSNrpAAAL","level":"info"}
+{"message":"SocketIO > Disconnected socket TMhmvcYA9T_psGLKAAAG","level":"info"}
+{"message":"SocketIO > Disconnected socket UJcnQ3DWZUdzclAGAAAK","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tCcDHSnEIcaJC3lJLAAAM","level":"info"}
+{"message":"SocketIO > Disconnected socket CcDHSnEIcaJC3lJLAAAM","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t7c2Z6YmVN78ACjdUAAAN","level":"info"}
+{"message":"SocketIO > Disconnected socket 7c2Z6YmVN78ACjdUAAAN","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t0V7UtaepmX3AGViLAAAA","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":10,\"queue_id\":32144}","level":"info"}
+{"message":"SocketIO > Disconnected socket 0V7UtaepmX3AGViLAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tzpperqt-YqYEPp9IAAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket zpperqt-YqYEPp9IAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t46J4MB8Yfg8-3PNZAAAC","level":"info"}
+{"message":"SocketIO > Disconnected socket 46J4MB8Yfg8-3PNZAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tbcTp1mrRemzS_bNcAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tMfnP3ygSlC1wcMZcAAAE","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":9,\"queue_id\":\"9770\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket MfnP3ygSlC1wcMZcAAAE","level":"info"}
+{"message":"SocketIO > Disconnected socket bcTp1mrRemzS_bNcAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \teg95lXuzlacWpnrDAAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t_s1uqk4tGdOU-ZGRAAAG","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":9,\"queue_id\":\"9770\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket _s1uqk4tGdOU-ZGRAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t8luJlCUqsoehrv-kAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tZvAlytgWt3Ry_0ctAAAB","level":"info"}
+{"message":"SocketIO emit to Client :{\"queuetype\":\"reuest\",\"point_id\":9,\"queue_id\":\"9770\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket ZvAlytgWt3Ry_0ctAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tkEB9A38To8znJsZLAAAA","level":"info"}
+{"message":"SocketIO emit to Client :{\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket kEB9A38To8znJsZLAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \ti8vJE8s-V19TfAJTAAAB","level":"info"}
+{"message":"SocketIO emit to Client :{\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket i8vJE8s-V19TfAJTAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t1-HFmwflOitPzo9NAAAC","level":"info"}
+{"message":"SocketIO emit to Client :{\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket 1-HFmwflOitPzo9NAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tO1iWIboYZk1pYWTUAAAD","level":"info"}
+{"message":"SocketIO emit to Client :{\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket O1iWIboYZk1pYWTUAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tdAG9X9GcQQSnLH_VAAAE","level":"info"}
+{"message":"SocketIO emit to Client :{\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket dAG9X9GcQQSnLH_VAAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t3hk1QjVUv6YCMS1xAAAF","level":"info"}
+{"message":"SocketIO emit to Client :{\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket 3hk1QjVUv6YCMS1xAAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tPNe8F3QUthyUuOiqAAAG","level":"info"}
+{"message":"SocketIO emit to Client :{\"foo\":\"bar\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket PNe8F3QUthyUuOiqAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t-Q2FNFX0dLkC8l2wAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tmIjhZxUzVNDQjWynAAAB","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket mIjhZxUzVNDQjWynAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tdKB84HEwmP_w8BvpAAAC","level":"info"}
+{"message":"SocketIO emit to Client screening :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket dKB84HEwmP_w8BvpAAAC","level":"info"}
+{"message":"SocketIO > Disconnected socket -Q2FNFX0dLkC8l2wAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t_s6PJDMltm6mFphtAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t1cgmvbLyUKbZw6LgAAAE","level":"info"}
+{"message":"SocketIO emit to Client screening :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket 1cgmvbLyUKbZw6LgAAAE","level":"info"}
+{"message":"SocketIO > Disconnected socket _s6PJDMltm6mFphtAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tsPS1314KICEF30SgAAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t2qMftr9ydiOm8lsoAAAG","level":"info"}
+{"message":"SocketIO emit to Client screening :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket 2qMftr9ydiOm8lsoAAAG","level":"info"}
+{"message":"SocketIO > Disconnected socket sPS1314KICEF30SgAAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tz-pnvqtyFgIOXxOkAAAH","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tNGPVEP5y7kAA1BE9AAAI","level":"info"}
+{"message":"SocketIO emit to Client screening :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket NGPVEP5y7kAA1BE9AAAI","level":"info"}
+{"message":"SocketIO > Disconnected socket z-pnvqtyFgIOXxOkAAAH","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tjB-w3jptRJK-BXDHAAAJ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tJuO0gpX8xq4F5X9zAAAK","level":"info"}
+{"message":"SocketIO emit to Client screening :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket JuO0gpX8xq4F5X9zAAAK","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tMwlV4bmfLMAGgLlkAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tkLm-HibT5PN9o6EQAAAB","level":"info"}
+{"message":"SocketIO emit to Client screening :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket [object Object]","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tEji_vSJM17XPGdHBAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t8Tp1lSn1FZoNBKMGAAAB","level":"info"}
+{"message":"SocketIO emit to Client screening :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket undefined","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tWhxPywOzVMJHnflvAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tkLp0jbYJyxr6GkJUAAAB","level":"info"}
+{"message":"SocketIO emit to Client screening :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket undefined","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t_eYKWcPq4Uci6sgeAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t6Tz0nXyvSNkGHaJJAAAB","level":"info"}
+{"message":"SocketIO emit to Client screening :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :6Tz0nXyvSNkGHaJJAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t_2c4OzOPMmynWDMWAAAC","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :_2c4OzOPMmynWDMWAAAC","level":"info"}
+{"message":"SocketIO > Disconnected socket :_eYKWcPq4Uci6sgeAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tH9gk9j995RNXrnvoAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tvnV0d98bDCHir0b5AAAE","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :vnV0d98bDCHir0b5AAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tbNTh3WQTtGTTzWWrAAAF","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :bNTh3WQTtGTTzWWrAAAF","level":"info"}
+{"message":"SocketIO > Disconnected socket :H9gk9j995RNXrnvoAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tulu_RgCGCDVXAaVMAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tgEJlO3Iag3-m3RWfAAAB","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :gEJlO3Iag3-m3RWfAAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket :ulu_RgCGCDVXAaVMAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tTRCW5pnbbA70qOlFAAAC","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :TRCW5pnbbA70qOlFAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tcJQXNTahaAVDh0SvAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t0NJEzyuPQN8DedhBAAAE","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :0NJEzyuPQN8DedhBAAAE","level":"info"}
+{"message":"SocketIO > Disconnected socket :cJQXNTahaAVDh0SvAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tuq0_o2mQXP-lkeVKAAAF","level":"info"}
+{"message":"SocketIO > Disconnected socket :uq0_o2mQXP-lkeVKAAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tM-oCOQK5_lEh0MtjAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tAOLj2C8LoVPCRb9bAAAH","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :AOLj2C8LoVPCRb9bAAAH","level":"info"}
+{"message":"SocketIO > Disconnected socket :M-oCOQK5_lEh0MtjAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tXotcGjZ3FNhZfEVVAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \trq7DMBpL1AJJzoD-AAAJ","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :rq7DMBpL1AJJzoD-AAAJ","level":"info"}
+{"message":"SocketIO > Disconnected socket :XotcGjZ3FNhZfEVVAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \teWej4GEIWCqj98iWAAAK","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :eWej4GEIWCqj98iWAAAK","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tvTQTtikLh-lluCgCAAAL","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :vTQTtikLh-lluCgCAAAL","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tErr0r4tv9qmnSPzjAAAM","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tHu1ljTUn1y7uMad4AAAN","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :Hu1ljTUn1y7uMad4AAAN","level":"info"}
+{"message":"SocketIO > Disconnected socket :Err0r4tv9qmnSPzjAAAM","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tJpV2baIFSoHBXV5fAAAO","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t6peFn9NLktx9K8-lAAAP","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :6peFn9NLktx9K8-lAAAP","level":"info"}
+{"message":"SocketIO > Disconnected socket :JpV2baIFSoHBXV5fAAAO","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tH5w9VIWvI5uoPCJCAAAQ","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :H5w9VIWvI5uoPCJCAAAQ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tI4lLUyXZxl2BXngTAAAR","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tLEL9vdii1vtWY30RAAAS","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"point_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :LEL9vdii1vtWY30RAAAS","level":"info"}
+{"message":"SocketIO > Connected socket ID : \txAAqgOKLiKj29TgpAAAT","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :xAAqgOKLiKj29TgpAAAT","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tXG2gZBVZPqsLQ5rOAAAA","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :XG2gZBVZPqsLQ5rOAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tIF7AfzHh1JLPWcKWAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t2OZ643w8IBeEaqqCAAAC","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :2OZ643w8IBeEaqqCAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tl6G58r_C0fC0QQvIAAAD","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :l6G58r_C0fC0QQvIAAAD","level":"info"}
+{"message":"SocketIO > Disconnected socket :IF7AfzHh1JLPWcKWAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tsWjy0UEgZNiX38PuAAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tbE1eJ2YJ7TZJj3BfAAAF","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :bE1eJ2YJ7TZJj3BfAAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tQsSNSwpiCAA6oBHmAAAG","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :QsSNSwpiCAA6oBHmAAAG","level":"info"}
+{"message":"SocketIO > Disconnected socket :sWjy0UEgZNiX38PuAAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tC7Rb-9nQSszRHckIAAAH","level":"info"}
+{"message":"SocketIO > Disconnected socket :C7Rb-9nQSszRHckIAAAH","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tcsjx3XVikhs_L-KjAAAI","level":"info"}
+{"message":"SocketIO > Disconnected socket :csjx3XVikhs_L-KjAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tfbRBNrJbHf8dlUmxAAAJ","level":"info"}
+{"message":"SocketIO > Disconnected socket :fbRBNrJbHf8dlUmxAAAJ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tsjMO5mDD1QxUK7kwAAAK","level":"info"}
+{"message":"SocketIO > Disconnected socket :sjMO5mDD1QxUK7kwAAAK","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tiWHGC9jqn_Qh4-YqAAAL","level":"info"}
+{"message":"SocketIO > Disconnected socket :iWHGC9jqn_Qh4-YqAAAL","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tQUTXA4H5Wfj8MRY2AAAM","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":5,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :QUTXA4H5Wfj8MRY2AAAM","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tqL54lLjI5lN4SxOKAAAN","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t3BQsnlMgc8dimbOwAAAO","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":6,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :3BQsnlMgc8dimbOwAAAO","level":"info"}
+{"message":"SocketIO > Disconnected socket :qL54lLjI5lN4SxOKAAAN","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tozf_fVFRB4iuDPahAAAP","level":"info"}
+{"message":"SocketIO > Disconnected socket :ozf_fVFRB4iuDPahAAAP","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t3by4JEEgU-N1kO6tAAAQ","level":"info"}
+{"message":"SocketIO > Disconnected socket :3by4JEEgU-N1kO6tAAAQ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tPjNtQwZzpxkBPGTJAAAR","level":"info"}
+{"message":"SocketIO > Disconnected socket :PjNtQwZzpxkBPGTJAAAR","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tFcXtqCLHxa40hDW4AAAS","level":"info"}
+{"message":"SocketIO > Disconnected socket :FcXtqCLHxa40hDW4AAAS","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t8ewjyExAGsjI8OZBAAAT","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :8ewjyExAGsjI8OZBAAAT","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t2bzaPoQ2dfLo_AFlAAAU","level":"info"}
+{"message":"SocketIO > Disconnected socket :2bzaPoQ2dfLo_AFlAAAU","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tjTZTESYvcqa8zWDvAAAV","level":"info"}
+{"message":"SocketIO > Disconnected socket :jTZTESYvcqa8zWDvAAAV","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t9WDjkBk7jIktIU3dAAAW","level":"info"}
+{"message":"SocketIO > Disconnected socket :9WDjkBk7jIktIU3dAAAW","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tBUnGD_ZP_WmIl8qtAAAX","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :BUnGD_ZP_WmIl8qtAAAX","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tOXVX7gj1pxwAc199AAAY","level":"info"}
+{"message":"SocketIO > Disconnected socket :OXVX7gj1pxwAc199AAAY","level":"info"}
+{"message":"SocketIO > Connected socket ID : \ttvkoZdW1bzagApwpAAAZ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \toWd3YuvhDqi0LMsJAAAa","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":7,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :oWd3YuvhDqi0LMsJAAAa","level":"info"}
+{"message":"SocketIO > Disconnected socket :tvkoZdW1bzagApwpAAAZ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tS262CxvMCaVYP9NqAAAb","level":"info"}
+{"message":"SocketIO > Disconnected socket :S262CxvMCaVYP9NqAAAb","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tqRTe4_uQues_TyPFAAAc","level":"info"}
+{"message":"SocketIO > Disconnected socket :qRTe4_uQues_TyPFAAAc","level":"info"}
+{"message":"SocketIO > Connected socket ID : \txXgVkLntnps5gJWjAAAd","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tR6VLG9HhsMLdAThwAAAe","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t-NaIj36Or2-veLdkAAAf","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :-NaIj36Or2-veLdkAAAf","level":"info"}
+{"message":"SocketIO > Disconnected socket :R6VLG9HhsMLdAThwAAAe","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tHVzIGZ9xNAY5GhjQAAAg","level":"info"}
+{"message":"SocketIO > Connected socket ID : \ttzyVLgKjIC_o1T8cAAAh","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :tzyVLgKjIC_o1T8cAAAh","level":"info"}
+{"message":"SocketIO > Disconnected socket :xXgVkLntnps5gJWjAAAd","level":"info"}
+{"message":"SocketIO > Disconnected socket :HVzIGZ9xNAY5GhjQAAAg","level":"info"}
+{"message":"SocketIO > Connected socket ID : \th2pXfHR3cC1dNQ-8AAAi","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tbvoiz7Rjg65EL3f4AAAj","level":"info"}
+{"message":"SocketIO > Disconnected socket :bvoiz7Rjg65EL3f4AAAj","level":"info"}
+{"message":"SocketIO > Connected socket ID : \ttKjJfPkY0PvbDJMfAAAk","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :tKjJfPkY0PvbDJMfAAAk","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tlb0I0q0kcTPM5RBUAAAl","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :lb0I0q0kcTPM5RBUAAAl","level":"info"}
+{"message":"SocketIO > Disconnected socket :h2pXfHR3cC1dNQ-8AAAi","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tpC9xAg4PCubZYa7hAAAm","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :pC9xAg4PCubZYa7hAAAm","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tqtJL5m3OBGmJwnygAAAn","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :qtJL5m3OBGmJwnygAAAn","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tPvGCFZYb18FjuYKbAAAo","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :PvGCFZYb18FjuYKbAAAo","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tkoHFgEbLbl8PqU_wAAAp","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :koHFgEbLbl8PqU_wAAAp","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tqm51v_5wtQ8I03WHAAAq","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :qm51v_5wtQ8I03WHAAAq","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t7hJnnGRXN2iFp_JTAAAr","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :7hJnnGRXN2iFp_JTAAAr","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t_d6FpsbMYjkCaCpVAAAs","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":\"3\",\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :_d6FpsbMYjkCaCpVAAAs","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tLtqKwH5P8C1JfJ36AAAt","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":null,\"queue_id\":\"10221\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :LtqKwH5P8C1JfJ36AAAt","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tw5GBqT3LQXnwQdkSAAAu","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":\"2\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :w5GBqT3LQXnwQdkSAAAu","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t30A41YOHuHPcbsbaAAAv","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":\"3\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :30A41YOHuHPcbsbaAAAv","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tK1rNJ9m_lYtRvmFyAAAw","level":"info"}
+{"message":"SocketIO > Disconnected socket :K1rNJ9m_lYtRvmFyAAAw","level":"info"}
+{"message":"SocketIO > Connected socket ID : \thchYdDbK3Aa1cH1XAAAx","level":"info"}
+{"message":"SocketIO > Disconnected socket :hchYdDbK3Aa1cH1XAAAx","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t4GfyQIzn3uLc5j-GAAAy","level":"info"}
+{"message":"SocketIO > Disconnected socket :4GfyQIzn3uLc5j-GAAAy","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t4OsdL0zxzKnOyWk8AAAz","level":"info"}
+{"message":"SocketIO > Disconnected socket :4OsdL0zxzKnOyWk8AAAz","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tyLjde5rvaVNwc7RLAAA0","level":"info"}
+{"message":"SocketIO > Disconnected socket :yLjde5rvaVNwc7RLAAA0","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t45fW5rkB0CKSh7MIAAA1","level":"info"}
+{"message":"SocketIO > Disconnected socket :45fW5rkB0CKSh7MIAAA1","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tFhyN2iG4McYOmAexAAA2","level":"info"}
+{"message":"SocketIO > Disconnected socket :FhyN2iG4McYOmAexAAA2","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t6KTbQICN35Fa-aBhAAA3","level":"info"}
+{"message":"SocketIO > Disconnected socket :6KTbQICN35Fa-aBhAAA3","level":"info"}
+{"message":"SocketIO > Connected socket ID : \ty2HHqU4R3WW4bzSDAAAA","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":10}","level":"info"}
+{"message":"SocketIO > Disconnected socket :y2HHqU4R3WW4bzSDAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tDav0IQIzPg86AR-ZAAAB","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":11}","level":"info"}
+{"message":"SocketIO > Disconnected socket :Dav0IQIzPg86AR-ZAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tsmecoZfEcBufjRxHAAAC","level":"info"}
+{"message":"SocketIO > Disconnected socket :smecoZfEcBufjRxHAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tno0BNWq-fg44kXFCAAAD","level":"info"}
+{"message":"SocketIO > Disconnected socket :no0BNWq-fg44kXFCAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t1ecraWKS4sFo-JgOAAAE","level":"info"}
+{"message":"SocketIO > Disconnected socket :1ecraWKS4sFo-JgOAAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tHx5-GCjS2Lmj4ZcrAAAF","level":"info"}
+{"message":"SocketIO > Disconnected socket :Hx5-GCjS2Lmj4ZcrAAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tELyBxUbepqOmsE2OAAAG","level":"info"}
+{"message":"SocketIO > Disconnected socket :ELyBxUbepqOmsE2OAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tRMXTbzeFQiAvlCYHAAAH","level":"info"}
+{"message":"SocketIO > Disconnected socket :RMXTbzeFQiAvlCYHAAAH","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t5TYSWKRXTxNlgQoIAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tTY0vUGv2M-C6CUM1AAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t0FuEESqxClbVrolaAAAB","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":12}","level":"info"}
+{"message":"SocketIO > Disconnected socket :0FuEESqxClbVrolaAAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket :TY0vUGv2M-C6CUM1AAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t8D_zG0yIbQ46_kN2AAAC","level":"info"}
+{"message":"SocketIO > Disconnected socket :8D_zG0yIbQ46_kN2AAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tl4KGmBnVWC2tm-QnAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t2C0WGo6ZY5tFmfXwAAAE","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"kios_id\":13}","level":"info"}
+{"message":"SocketIO > Disconnected socket :2C0WGo6ZY5tFmfXwAAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t9N4VYtiHS4GAyOS1AAAF","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"::1\",\"kios_id\":14}","level":"info"}
+{"message":"SocketIO > Disconnected socket :9N4VYtiHS4GAyOS1AAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tbFWrGcSMzxE9WL2TAAAG","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":15}","level":"info"}
+{"message":"SocketIO > Disconnected socket :bFWrGcSMzxE9WL2TAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tbYpWRYCN989abmTiAAAH","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":16}","level":"info"}
+{"message":"SocketIO > Disconnected socket :bYpWRYCN989abmTiAAAH","level":"info"}
+{"message":"SocketIO > Disconnected socket :l4KGmBnVWC2tm-QnAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \the-l2tMiGxKfvE0eAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tHP6-oSPtVt2RTa94AAAJ","level":"info"}
+{"message":"SocketIO > Disconnected socket :he-l2tMiGxKfvE0eAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tFYCUqKRPY3L23O0cAAAK","level":"info"}
+{"message":"SocketIO > Disconnected socket :FYCUqKRPY3L23O0cAAAK","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tG96Vwg9inggXj4qCAAAL","level":"info"}
+{"message":"SocketIO > Disconnected socket :HP6-oSPtVt2RTa94AAAJ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tZ9U37Uq3m2efNohuAAAM","level":"info"}
+{"message":"SocketIO > Disconnected socket :Z9U37Uq3m2efNohuAAAM","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tl4w10xJtlLgogJKPAAAN","level":"info"}
+{"message":"SocketIO > Disconnected socket :G96Vwg9inggXj4qCAAAL","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t_mD0rYtqsOmoDpg0AAAO","level":"info"}
+{"message":"SocketIO > Disconnected socket :_mD0rYtqsOmoDpg0AAAO","level":"info"}
+{"message":"SocketIO > Disconnected socket :l4w10xJtlLgogJKPAAAN","level":"info"}
+{"message":"SocketIO > Connected socket ID : \ttyF8T2L7fSVRlvxcAAAP","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":17}","level":"info"}
+{"message":"SocketIO > Disconnected socket :tyF8T2L7fSVRlvxcAAAP","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tVjB8VgiAQJHMe970AAAA","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":19}","level":"info"}
+{"message":"SocketIO > Disconnected socket :VjB8VgiAQJHMe970AAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tY2thikAj8cSNyEV7AAAB","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":20}","level":"info"}
+{"message":"SocketIO > Disconnected socket :Y2thikAj8cSNyEV7AAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tKTrHGnA3SQuBy8i0AAAC","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":21}","level":"info"}
+{"message":"SocketIO > Disconnected socket :KTrHGnA3SQuBy8i0AAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tKQ2W-K5Hkk7O2z-5AAAD","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":23}","level":"info"}
+{"message":"SocketIO > Disconnected socket :KQ2W-K5Hkk7O2z-5AAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \teuhnUKVQAOMyBQzpAAAE","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":24}","level":"info"}
+{"message":"SocketIO > Disconnected socket :euhnUKVQAOMyBQzpAAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t41oLSVuqC1ZUkPTuAAAF","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":25}","level":"info"}
+{"message":"SocketIO > Disconnected socket :41oLSVuqC1ZUkPTuAAAF","level":"info"}
+{"message":"SocketIO > Connected socket ID : \toGMuJqIVJ270SLS_AAAG","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":26}","level":"info"}
+{"message":"SocketIO > Disconnected socket :oGMuJqIVJ270SLS_AAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t3AAQJl3NsEOQT4yVAAAH","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":27}","level":"info"}
+{"message":"SocketIO > Disconnected socket :3AAQJl3NsEOQT4yVAAAH","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t_UJr_my9QqencfANAAAI","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":28}","level":"info"}
+{"message":"SocketIO > Disconnected socket :_UJr_my9QqencfANAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tqWkkhiS-8re_50LjAAAJ","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":29}","level":"info"}
+{"message":"SocketIO > Disconnected socket :qWkkhiS-8re_50LjAAAJ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tAE8i1bww2pcP1MetAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tMW5gpBOX9FON_GpSAAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket :AE8i1bww2pcP1MetAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tRZKyUugv4ZGDoHqzAAAC","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"::1\",\"kios_id\":8}","level":"info"}
+{"message":"SocketIO > Disconnected socket :RZKyUugv4ZGDoHqzAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tmBRF5pqD7_Bke8JGAAAD","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":9}","level":"info"}
+{"message":"SocketIO > Disconnected socket :mBRF5pqD7_Bke8JGAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tTjbpbefPQoGde73LAAAE","level":"info"}
+{"message":"SocketIO > Disconnected socket :MW5gpBOX9FON_GpSAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tLpywMfM4lUCHxGBxAAAF","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"25.34.207.182\",\"kios_id\":10}","level":"info"}
+{"message":"SocketIO > Disconnected socket :LpywMfM4lUCHxGBxAAAF","level":"info"}
+{"message":"SocketIO > Disconnected socket :TjbpbefPQoGde73LAAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tHAm_XQAwHDOCqGDyAAAG","level":"info"}
+{"message":"SocketIO > Disconnected socket :HAm_XQAwHDOCqGDyAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tlONcpGu95feMF-vCAAAH","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t-JjfsAKgwbk0uLpqAAAI","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"25.34.207.182\",\"kios_id\":11}","level":"info"}
+{"message":"SocketIO > Disconnected socket :-JjfsAKgwbk0uLpqAAAI","level":"info"}
+{"message":"SocketIO > Disconnected socket :lONcpGu95feMF-vCAAAH","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t6Luj_woUM1xmj0BYAAAJ","level":"info"}
+{"message":"SocketIO > Disconnected socket :6Luj_woUM1xmj0BYAAAJ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tdW4tLPmkazuGVTUZAAAK","level":"info"}
+{"message":"SocketIO > Disconnected socket :dW4tLPmkazuGVTUZAAAK","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tm9KEJaJAgR7NQvEnAAAL","level":"info"}
+{"message":"SocketIO > Disconnected socket :m9KEJaJAgR7NQvEnAAAL","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tgL_zOEtXX6XFZdBGAAAM","level":"info"}
+{"message":"SocketIO > Disconnected socket :gL_zOEtXX6XFZdBGAAAM","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tHMabILXpxLsxujV2AAAN","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tsyuCYKAcXUOafzCmAAAO","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"25.34.207.182\",\"kios_id\":12}","level":"info"}
+{"message":"SocketIO > Disconnected socket :syuCYKAcXUOafzCmAAAO","level":"info"}
+{"message":"SocketIO > Disconnected socket :HMabILXpxLsxujV2AAAN","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tVTBNXamfNkeL9zgeAAAP","level":"info"}
+{"message":"SocketIO > Disconnected socket :VTBNXamfNkeL9zgeAAAP","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tHLGR3OXqEbDiUB1bAAAQ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tfDssCwmvfi0gau_6AAAR","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"25.34.207.182\",\"kios_id\":\"12\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :fDssCwmvfi0gau_6AAAR","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t_oXzOqGuh2bJFb__AAAS","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"25.34.207.182\",\"kios_id\":\"12\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :_oXzOqGuh2bJFb__AAAS","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t90p0mHf8O3kUT3hoAAAT","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"25.34.207.182\",\"kios_id\":13}","level":"info"}
+{"message":"SocketIO > Disconnected socket :90p0mHf8O3kUT3hoAAAT","level":"info"}
+{"message":"SocketIO > Disconnected socket :HLGR3OXqEbDiUB1bAAAQ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t-jx1Ge7f8587gXHvAAAU","level":"info"}
+{"message":"SocketIO > Disconnected socket :-jx1Ge7f8587gXHvAAAU","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tlwRpYita3eW_5dncAAAV","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tUxAbT0ELh6PR49GVAAAW","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t9RPE1DC2aioTxqAzAAAX","level":"info"}
+{"message":"SocketIO > Disconnected socket :9RPE1DC2aioTxqAzAAAX","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t1bezMQU9ATyBKi0tAAAY","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tQljeBfTZlYCK_ZJvAAAZ","level":"info"}
+{"message":"SocketIO > Disconnected socket :QljeBfTZlYCK_ZJvAAAZ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tpzj1rgmko-2fFNp_AAAa","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tIbl-Y-j9RQABscJFAAAA","level":"info"}
+{"message":"SocketIO > Disconnected socket :Ibl-Y-j9RQABscJFAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tkzYeDsfN_rQNVJQ4AAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket :kzYeDsfN_rQNVJQ4AAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tKdVqJMRbxsBdm4yxAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tzGn0TrKUwlJPDGfQAAAA","level":"info"}
+{"message":"SocketIO > Disconnected socket :zGn0TrKUwlJPDGfQAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \teZ3S6vz-oA4XZfq3AAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket :eZ3S6vz-oA4XZfq3AAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tqdDQtzfoCnoao08IAAAC","level":"info"}
+{"message":"SocketIO > Disconnected socket :qdDQtzfoCnoao08IAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tgh8ry_Xcv4eGPRjJAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t81sx569Rd-9l26pXAAAA","level":"info"}
+{"message":"SocketIO > Disconnected socket :81sx569Rd-9l26pXAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tPMiebIe5zpLfnCGUAAAB","level":"info"}
+{"message":"SocketIO > Disconnected socket :PMiebIe5zpLfnCGUAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tDdUbHo848Q3dShviAAAC","level":"info"}
+{"message":"SocketIO > Disconnected socket :DdUbHo848Q3dShviAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tUbtGFzOTFynrH03qAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t2tb8a_A9-BX3lZB3AAAE","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"::1\",\"kios_id\":\"33910\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :2tb8a_A9-BX3lZB3AAAE","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tpUGDw5AI3-7mfa1EAAAF","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"::1\",\"kios_id\":\"33910\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :pUGDw5AI3-7mfa1EAAAF","level":"info"}
+{"message":"SocketIO > Disconnected socket :UbtGFzOTFynrH03qAAAD","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t5wnvF6n02uw7dVZtAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tub8UarwvBCzAMtywAAAH","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"::1\",\"kios_id\":\"33910\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :ub8UarwvBCzAMtywAAAH","level":"info"}
+{"message":"SocketIO > Disconnected socket :5wnvF6n02uw7dVZtAAAG","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t0hT4ukMF9ZMzbgldAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \twcmdKuDWY_mSTEOuAAAJ","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"::1\",\"kios_id\":\"33910\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :wcmdKuDWY_mSTEOuAAAJ","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tSpFd-_BJmM2pIM3fAAAK","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"::1\",\"kios_id\":\"33911\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :SpFd-_BJmM2pIM3fAAAK","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t8gwHekTZ5wuKR0MKAAAL","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"::1\",\"kios_id\":\"33912\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :8gwHekTZ5wuKR0MKAAAL","level":"info"}
+{"message":"SocketIO > Connected socket ID : \todTLkzeNUKEot70vAAAM","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"localhost\",\"kios_id\":\"33913\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :odTLkzeNUKEot70vAAAM","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tDjhS3V9e5REgAeDrAAAN","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"localhost\",\"kios_id\":\"33914\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :DjhS3V9e5REgAeDrAAAN","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tx-iaqCcGI99FflH7AAAO","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"localhost\",\"kios_id\":\"33915\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :x-iaqCcGI99FflH7AAAO","level":"info"}
+{"message":"SocketIO > Disconnected socket :0hT4ukMF9ZMzbgldAAAI","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tEtl-6-aH82utHasEAAAP","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tnQPxchIFLf_-Q50FAAAA","level":"info"}
+{"message":"SocketIO > Disconnected socket :nQPxchIFLf_-Q50FAAAA","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tVBECcXNMBm51ptqaAAAB","level":"info"}
+{"message":"SocketIO > Connected socket ID : \tgA66rBXzO-ApBmIsAAAC","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"192.168.10.191\",\"kios_id\":\"46629\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :gA66rBXzO-ApBmIsAAAC","level":"info"}
+{"message":"SocketIO > Connected socket ID : \t55KLFtOaPb5yBRwWAAAD","level":"info"}
+{"message":"SocketIO emit to Client broadcast :{\"queuetype\":\"requestqueue\",\"client_request\":\"localhost\",\"kios_id\":\"46630\"}","level":"info"}
+{"message":"SocketIO > Disconnected socket :55KLFtOaPb5yBRwWAAAD","level":"info"}

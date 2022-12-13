@@ -1,0 +1,2 @@
+2022-10-08 21:59:55 - Starting C:\Program Files\nodejs\node.exe --harmony "C:\Apache24\htdocs\ci_kios\node_server\node_modules\node-windows\lib\wrapper.js" -f "C:\Apache24\htdocs\ci_kios\node_server\node_kios_server.js" -l "NodeKiosServer" -g 0.25 -w 1 -r 3 -a n
+2022-10-08 21:59:55 - Started 11040
